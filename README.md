@@ -28,5 +28,3 @@ Datasets were provided by IMS Proschool Pvt Ltd. for the final term-end project.
 **Project Participation:** Independently worked on the project.
 
 
-
-*Disclaimer: This is a fictional company, and the project was undertaken to establish the project participant's expertise in topics covered during the final term of the PG Diploma course in Data Science.*
